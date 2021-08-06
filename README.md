@@ -4,3 +4,9 @@
 - Email me at plasmapugproductions@gmail.com for any game inquiries, or at andresalvarezestrada@gmail.com for professional inquiries
 
 
+Current Working projects
+Magic Circles 
+Baby's Last Blocks
+
+Deprecated Projects
+Baby Blocks 2D
